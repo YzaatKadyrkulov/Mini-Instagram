@@ -62,7 +62,7 @@ public class Main {
                         2.Get all users
                         3.Add post to user
                         4.Delete post by id
-                        5.Get posts by user id
+                        5.Get posts by user Id
                         6.Exit""");
 
                 int choice = scanner1.nextInt();
