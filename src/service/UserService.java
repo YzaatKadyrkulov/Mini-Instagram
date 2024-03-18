@@ -9,4 +9,5 @@ public interface UserService {
     String login(String email,String password);
     User getUserByEmail(String email);
     List<User> getAllUsers();
+
 }

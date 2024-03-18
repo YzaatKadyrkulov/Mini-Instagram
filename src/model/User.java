@@ -56,7 +56,7 @@ public class User {
         this.password = password;
     }
 
-    public Gender getGender() {
+    public Gender getGender(Gender male) {
         return gender;
     }
 
